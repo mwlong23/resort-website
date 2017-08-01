@@ -16,3 +16,17 @@ img {
   width:700px;
   height:600px;
 }
+div {
+  text-align: center;
+  font-size: 20px;
+
+}
+A:link {
+ COLOR: red /*The color of the link*/
+}
+A:visited {
+ COLOR: black /*The color of the visited link*/
+}
+A:hover {
+ COLOR: green /*The color of the mouseover or 'hover' link*/
+}
